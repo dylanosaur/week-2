@@ -1,0 +1,50 @@
+hyper text markup language - HTML
+    semantic language
+    extension of XML
+    parsed and displayed by a browser
+    maintained by w3c - world wide web consortium
+    we'll do html5
+
+CSS - cascading style sheets
+    language for defining styles in html and html-like documents
+    parsed by browser to define styling role for an html document
+    we'll do css3
+
+we put nested content between opening/closing tags <tag> </tag>
+can also do self closing tags <tag/>
+some void tags - don't need closing tags bc they can't have content - <br>
+
+4 required tags: doctype, root, head, body
+DR HeadBody
+Document Root Head Body
+
+<!DOCTYPE html> - doc tag
+<html> - root tag
+    <head>
+    ...document metadata: used by broswer but will not be displayed
+    </head>
+    <body>
+    ...content
+    </body>
+
+</html> - root closing tag
+
+Headings:   primary, subheading of h1, h2 is subheading of h2
+            h1 -> h6
+
+What are the 3 ways to provide CSS styling to a HTML document? 
+    ITS CSS - Inline Tags Sheets CSS
+    1. inline styling
+    2. style tag
+    3. style sheets
+
+XML HTTP Request ready states
+Types of women I don't particularly like
+U O S D C
+underage overweight sick dumb c****
+
+0 - unopened
+1 - opened
+2 - sent
+3 - headers received, downloading
+4 - complete
